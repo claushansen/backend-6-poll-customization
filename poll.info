@@ -1,0 +1,7 @@
+name = Poll
+description = Allows your site to capture votes on different topics in the form of multiple choice questions.
+package = Custom
+version = 0.1
+core = 7.x
+files[] = poll.test
+stylesheets[all][] = poll.css
